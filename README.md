@@ -1,4 +1,4 @@
-# Bio-inspired Online Target-oriented Navigation for Micro Air Vehicles in Tree Plantations
+# ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations
 
 # Citation
 If you use this code in an academic context, please cite our work:

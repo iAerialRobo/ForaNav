@@ -4,7 +4,7 @@ ForaNav is an insect-inspired, online target-oriented navigation system designed
 
 This repository contains two main components:
 
-[Tree detection]([#Tree_Detection](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/59a8627617de2e210af7e12cd6dd247c16fb667e/Tree_Detection))**: Implementation of tree detection using our proposed method and lightweight deep learning approaches.
+[Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/59a8627617de2e210af7e12cd6dd247c16fb667e/Tree_Detection): Implementation of tree detection using our proposed method and lightweight deep learning approaches.
 
 Navigation: The navigation framework leveraging the detected trees for MAV path planning.
 ## Citation

@@ -1,5 +1,5 @@
 # ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations
-![image](https://github.com/user-attachments/assets/faf1ff05-1459-4b54-a86f-0b5042dd3403)
+![image](https://github.com/user-attachments/assets/faf1ff05-1459-4b54-a86f-0b5042dd3403){: width="500px" height="300px"}
 
 ## Overview
 ForaNav is an insect-inspired, online target-oriented navigation system designed for Micro Air Vehicles (MAVs) operating in tree plantations. The system integrates real-time tree detection with bio-inspired navigation strategies to enable efficient and autonomous UAV flight in cluttered environments.

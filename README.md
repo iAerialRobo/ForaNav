@@ -8,7 +8,7 @@ This repository contains two main components:
 To achieve real-time oil palm tree detection on resource-restricted MAVs, we use HOG features and an SVM classifier. Our method further improves detection by distinguishing oil palm trees from similar palm species and background objects with star-shaped features.
 
 [Navigation](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/283f0fe028a0f36eaa476db4d197dd84313a3b4b/Navigation): 
-Our navigation strategy draws inspiration from insect foraging behavior , particularly the reliance on local visual cues and their body-centered frame of reference for position estimation and efficient movement.
+Our navigation strategy draws inspiration from insect foraging behavior, particularly the reliance on local visual cues and their body-centered frame of reference for position estimation and efficient movement.
 
 ## Citation
 If you use this code in an academic context, please cite our work:

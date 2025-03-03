@@ -4,7 +4,7 @@ ForaNav is an insect-inspired, online target-oriented navigation system designed
 
 This repository contains two main components:
 
-[Tree detection](#tree-detection)**: Implementation of tree detection using our proposed method and lightweight deep learning approaches.
+[Tree detection](#Tree_Detection)**: Implementation of tree detection using our proposed method and lightweight deep learning approaches.
 
 Navigation: The navigation framework leveraging the detected trees for MAV path planning.
 ## Citation

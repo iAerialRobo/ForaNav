@@ -16,3 +16,12 @@ If you use this code in an academic context, please cite our work:
 Weijie Kuang, Hann Woei Ho, Ye Zhou and Shahrel Azmin Suandi, ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations.
 (The code will be released upon publication.)
 ````
+
+## Tree detection
+The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/59a8627617de2e210af7e12cd6dd247c16fb667e/Tree_Detection) folder contains the implementation of the proposed tree detection approach. It includes:
+
+- SVM Training Code: Scripts for training the proposed Histogram of Oriented Gradients (HOG)-based SVM model.
+- Lightweight Deep Learning Training Code: Implementation of deep learning-based tree detection for comparison, including MobileNetV2 and EfficientNet.
+- Pre-trained SVM Model: The trained SVM model for oil palm tree detection.
+- Trained Detection Algorithm: The proposed tree detection method using the trained SVM model.
+- Oil Palm Tree Dataset: The dataset used for training and evaluating the models.

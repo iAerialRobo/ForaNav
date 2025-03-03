@@ -20,8 +20,8 @@ Weijie Kuang, Hann Woei Ho, Ye Zhou and Shahrel Azmin Suandi, ForaNav: Insect-in
 ## Tree detection
 The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/59a8627617de2e210af7e12cd6dd247c16fb667e/Tree_Detection) folder contains the implementation of the proposed tree detection approach. It includes:
 
-- SVM Training Code: Scripts for training the proposed Histogram of Oriented Gradients (HOG)-based SVM model.
-- Lightweight Deep Learning Training Code: Implementation of deep learning-based tree detection for comparison, including MobileNetV2 and EfficientNet.
-- Pre-trained SVM Model: The trained SVM model for oil palm tree detection.
-- Trained Detection Algorithm: The proposed tree detection method using the trained SVM model.
-- Oil Palm Tree Dataset: The dataset used for training and evaluating the models.
+- [SVM Training Code](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/SVM_train.py): Scripts for training the proposed Histogram of Oriented Gradients (HOG)-based SVM model.
+- [Lightweight Deep Learning Training Code](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/Lightweight_DL_model_training.py): Implementation of deep learning-based tree detection for comparison, including MobileNetV2 and EfficientNet.
+- [Pre-trained SVM Model](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/SVM_model.joblib): The trained SVM model for oil palm tree detection.
+- [HOG-based Detection Algorithm](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/HOG_based_detecion.py): The proposed tree detection method using the trained SVM model.
+- [Oil Palm Tree Dataset](https://drive.google.com/file/d/1pqzwsjBEopTnlbHHbPO2hpJrrhZ_qyu1/view?usp=sharing): The dataset used for training and evaluating the models.

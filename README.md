@@ -47,4 +47,4 @@ The MAV platform used in this research consists of the following components:
 - Flow Deck V2
   
 <p align="center">
-<img src="https://github.com/user-attachments/assets/aa7be72e-c6d4-4641-a871-e3c967e81afe" width="300">
+<img src="https://github.com/user-attachments/assets/aa7be72e-c6d4-4641-a871-e3c967e81afe" width="500">

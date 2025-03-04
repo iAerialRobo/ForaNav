@@ -32,8 +32,8 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 - [Oil Palm Tree Dataset](https://drive.google.com/file/d/1pqzwsjBEopTnlbHHbPO2hpJrrhZ_qyu1/view?usp=sharing): The dataset used for training and evaluating the models.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc" width="400" style="display: block; margin: 0 auto">
-p>
+<img src="https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc" width="400">
+
   
 ## Hardware Configuration
 The MAV platform used in this research consists of the following components:

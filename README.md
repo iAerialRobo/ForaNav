@@ -29,3 +29,12 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 - [Pre-trained SVM Model](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/SVM_model.joblib): The trained SVM model for oil palm tree detection.
 - [HOG-based Detection Algorithm](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/HOG_based_detecion.py): The proposed tree detection method using the trained SVM model.
 - [Oil Palm Tree Dataset](https://drive.google.com/file/d/1pqzwsjBEopTnlbHHbPO2hpJrrhZ_qyu1/view?usp=sharing): The dataset used for training and evaluating the models.
+
+## Hardware Configuration
+The MAV platform used in this research consists of the following components:
+
+-Crazyflie Bolt Flight Controller: Manages flight stability and control.
+-JeVois A33 Machine Vision Camera: Provides onboard visual processing for tree detection.
+-Loco Positioning Deck: Enables precise indoor positioning.
+-Flow Deck V2: Assists with optical flow-based positioning and stabilization.
+![prototype of the detection](https://github.com/user-attachments/assets/aa7be72e-c6d4-4641-a871-e3c967e81afe)

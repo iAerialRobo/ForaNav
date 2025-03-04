@@ -30,7 +30,7 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 - [HOG-based Detection Algorithm](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/157d1ccc2b9007e685d0078fdb9c8dfb7c5179d6/Tree_Detection/HOG_based_detecion.py): The proposed tree detection method using the trained SVM model.
 - [Oil Palm Tree Dataset](https://drive.google.com/file/d/1pqzwsjBEopTnlbHHbPO2hpJrrhZ_qyu1/view?usp=sharing): The dataset used for training and evaluating the models.
 
-<img src="[https://github.com/user-attachments/assets/95a3672b-d25e-49cd-b3b5-21e49b9d5b76](https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc)" width="300">
+<img src="https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc" width="300">
 
 ## Hardware Configuration
 The MAV platform used in this research consists of the following components:

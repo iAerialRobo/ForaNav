@@ -1,7 +1,7 @@
 # ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/95a3672b-d25e-49cd-b3b5-21e49b9d5b76" width="600" style="display: block; margin: 0 auto">
+<img src="https://github.com/user-attachments/assets/95a3672b-d25e-49cd-b3b5-21e49b9d5b76" width="600">
 
 
 ## Overview
@@ -46,4 +46,5 @@ The MAV platform used in this research consists of the following components:
   
 - Flow Deck V2
   
-![prototype of the detection](https://github.com/user-attachments/assets/aa7be72e-c6d4-4641-a871-e3c967e81afe)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/aa7be72e-c6d4-4641-a871-e3c967e81afe" width="300">

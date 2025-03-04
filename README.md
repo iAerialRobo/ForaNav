@@ -35,8 +35,12 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 ## Hardware Configuration
 The MAV platform used in this research consists of the following components:
 
--Crazyflie Bolt Flight Controller: Manages flight stability and control.
--JeVois A33 Machine Vision Camera: Provides onboard visual processing for tree detection.
--Loco Positioning Deck: Enables precise indoor positioning.
--Flow Deck V2: Assists with optical flow-based positioning and stabilization.
+- Crazyflie Bolt Flight Controller
+  
+- JeVois A33 Machine Vision Camera
+  
+- Loco Positioning Deck
+  
+- Flow Deck V2
+  
 ![prototype of the detection](https://github.com/user-attachments/assets/aa7be72e-c6d4-4641-a871-e3c967e81afe)

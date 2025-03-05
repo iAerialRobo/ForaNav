@@ -14,7 +14,7 @@ This repository contains two main components:
 [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/59a8627617de2e210af7e12cd6dd247c16fb667e/Tree_Detection): 
 To achieve real-time oil palm tree detection on resource-restricted MAVs, we use HOG features and an SVM classifier. Our method further improves detection by distinguishing oil palm trees from similar palm species and background objects with star-shaped features.
 
-[Navigation](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/283f0fe028a0f36eaa476db4d197dd84313a3b4b/Navigation): 
+[Insect-inspired navigation](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/tree/283f0fe028a0f36eaa476db4d197dd84313a3b4b/Navigation): 
 Our navigation strategy draws inspiration from insect foraging behavior, particularly the reliance on local visual cues and their body-centered frame of reference for position estimation and efficient movement.
 
 ## Citation
@@ -35,6 +35,16 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc" width="400">
+
+## Insect-inspired navigation
+The Navigation module implements our insect-inspired target-oriented navigation strategy. This approach enables MAVs to navigate efficiently in tree plantations using local visual cues rather than relying on GPS or pre-mapped environments. Key features include:
+
+- Bio-Inspired Strategy: The system mimics insect foraging behavior, leveraging egocentric visual navigation and view memory.
+- Local Visual Guidance: The MAVs utilize a body-centered frame of reference to estimate position and adjust movement dynamically.
+- Real-Time Adaptation: The navigation algorithm continuously updates flight paths based on detected trees, ensuring efficient tree tracking.
+- Lightweight & Efficient: Designed for resource-constrained MAVs, the method provides real-time performance without the need for heavy computational resources.
+
+This navigation module works in tandem with the tree detection system to enable autonomous flight through plantation environments.
 
   
 ## Hardware Configuration

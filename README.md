@@ -1,4 +1,4 @@
-# ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations
+# ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations [[PDF]](https://arxiv.org/pdf/2503.02275)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/95a3672b-d25e-49cd-b3b5-21e49b9d5b76" width="600">

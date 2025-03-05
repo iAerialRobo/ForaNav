@@ -37,7 +37,7 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 <img src="https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc" width="400">
 
 ## Insect-inspired navigation
-The Navigation module implements our insect-inspired target-oriented navigation strategy. This approach enables MAVs to navigate efficiently in tree plantations using local visual cues rather than relying on GPS or pre-mapped environments. Key features include:
+The [Insect-inspired navigation](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/74dfde3e53a9f7540dbd9a9a493c4d5255c9a35c/Navigation/Navigation.c) module implements our insect-inspired target-oriented navigation strategy. This approach enables MAVs to navigate efficiently in tree plantations using local visual cues rather than relying on GPS or pre-mapped environments. Key features include:
 
 - Bio-Inspired Strategy: The system mimics insect foraging behavior, leveraging egocentric visual navigation and view memory.
 - Local Visual Guidance: The MAVs utilize a body-centered frame of reference to estimate position and adjust movement dynamically.

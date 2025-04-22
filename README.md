@@ -36,6 +36,7 @@ The [Tree detection](https://github.com/iAerialRobo/Online-Target-oriented-Navig
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c7cd4b89-a56c-4901-b9dc-4d2f73aea6dc" width="400">
 
+### Similar objects differentiation
 To distinguish different background targets from the template oil palm tree image I-T, a combination of HOG and color-based features is utilized. For example, image I-1, which represents backgrounds such as grass and shrubs, has a similar color distribution to I-T but can be effectively distinguished using HOG feature visualization. In contrast, image I-2, including targets like buildings, shares a similar HOG structure with I-T, yet can be separated based on differences in the Hue and Saturation (H&S) histogram. Image I-3, representing targets such as banana trees and exhibiting similarity in both color and structure, is differentiated from I-T by analyzing the variance in the HOG directional histogram. This is because the needle-like leaflets of oil palm trees show greater directional variety compared to other palm-like species.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/092e39d8-2ea4-4d8f-9fbc-d27049a5026f" width="450">

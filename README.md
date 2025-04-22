@@ -41,6 +41,10 @@ To distinguish different background targets from the template oil palm tree imag
 <p align="center">
 <img src="https://github.com/user-attachments/assets/092e39d8-2ea4-4d8f-9fbc-d27049a5026f" width="450">
 
+### Ours vs. lightweight deep learning models
+<p align="center">
+<img src="https://github.com/user-attachments/assets/20e522f7-ea7b-4a2d-b4dc-109a40677fdd" width="600">
+
 
 ## Insect-inspired navigation
 The [Insect-inspired navigation](https://github.com/iAerialRobo/Online-Target-oriented-Navigation-for-Micro-Air-Vehicles-in-Tree-Plantations/blob/74dfde3e53a9f7540dbd9a9a493c4d5255c9a35c/Navigation/Navigation.c) module implements our insect-inspired target-oriented navigation strategy. This approach enables MAVs to navigate efficiently in tree plantations using local visual cues rather than relying on GPS or pre-mapped environments. Key features include:

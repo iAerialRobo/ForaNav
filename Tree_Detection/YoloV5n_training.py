@@ -26,7 +26,7 @@ project = "runs/train_yolov5n"
 name = "test"
 workers = 4
 
-# Create data.yaml if it doesn¡¯t exist
+# Create data.yaml if it doesnÂ¡Â¯t exist
 if not os.path.exists(data_yaml):
     with open(data_yaml, 'w', encoding='utf-8') as f:
         f.write(f"""

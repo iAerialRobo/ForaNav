@@ -43,7 +43,7 @@ To distinguish different background targets from the template oil palm tree imag
 
 ### Ours vs. lightweight deep learning models
 <p align="center">
-<img src="https://github.com/user-attachments/assets/20e522f7-ea7b-4a2d-b4dc-109a40677fdd" width="600">
+<img src="https://github.com/user-attachments/assets/debfdfc3-1eb5-48fd-84f4-57abdf581896" width="600">
 
 
 ## Insect-inspired navigation

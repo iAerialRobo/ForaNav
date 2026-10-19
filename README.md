@@ -21,8 +21,7 @@ Our navigation strategy draws inspiration from insect foraging behavior, particu
 ## Citation
 If you use this code in an academic context, please cite our work:
 ````
-Weijie Kuang, Hann Woei Ho, Ye Zhou and Shahrel Azmin Suandi, ForaNav: Insect-inspired Online Target-oriented Navigation for MAVs in Tree Plantations.
-(The code will be released upon publication.)
+Kuang, Weijie, Hann Woei Ho*, Ye Zhou, and Shahrel Azmin Suandi. "ForaNav: Insect-inspired online target-oriented navigation for MAVs in tree plantations." IEEE Robotics and Automation Letters 10, no. 7 (2025): 7063-7069.
 ````
 
 ## Tree detection
